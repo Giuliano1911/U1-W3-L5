@@ -258,7 +258,7 @@ const deleteProp = (obj, str) => {
   return obj
 }
 
-console.log('eliminare parametro da oggetto', deleteProp(me, 'surname'))
+console.log('eliminare elemento da oggetto', deleteProp(me, 'surname'))
 
 /* Questo array viene usato per gli esercizi. Non modificarlo. */
 
